@@ -1,2 +1,2 @@
 # maregraph-eu.github.io
-Stanndard github pages location
+Standard github pages location
