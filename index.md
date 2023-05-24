@@ -1,5 +1,12 @@
-# maregraph.eu
+# Welcome to the MareGraph project landing page!
+![MG](https://github.com/MareGraph-EU/maregraph-eu.github.io/blob/main/img/maregraph-text-400x400.svg)
 
-Todo:
-- give a general intro
-- link up to the [oslo-charter](/files/Charter_Maregraph_OSLO.pdf) when it is avbailable
+## About
+
+
+### Charter
+[oslo-charter](/files/Charter_Maregraph_OSLO.pdf) when it is avbailable
+
+
+
+
