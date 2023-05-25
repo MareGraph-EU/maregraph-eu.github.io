@@ -1,5 +1,5 @@
 # Welcome to the MareGraph project landing page!
-[MG](https://github.com/MareGraph-EU/maregraph-eu.github.io/blob/main/img/maregraph-horizontal.png)
+![MG](/img/maregraph-horizontal.png)
 
 ## About
 With MAREGRAPH, we aim atsupporting the EU and its MemberStatesin the achievement of ambitious marine themed
@@ -17,6 +17,7 @@ Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more inform
 
 #### Partners
 
+![VLIZ](https://github.com/MareGraph-EU/maregraph-eu.github.io/blob/main/img/VLIZ_LOGO_ENG_RGB_VLIZ_LOGO_COMPACT%20(3).png)
 
 
 
