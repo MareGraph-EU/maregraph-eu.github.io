@@ -1,5 +1,4 @@
-# Welcome to the MareGraph project landing page!
-![](/img/maregraph-horizontal.png)
+![](/img/maregraph-horizontal.1.png)
 # Welcome to the MareGraph project landing page!
 
 ## About
