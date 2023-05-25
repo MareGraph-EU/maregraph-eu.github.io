@@ -1,8 +1,8 @@
 ![](/img/maregraph-horizontal.1.png)
 # Welcome to the MareGraph landing page!
 
-## About
-With MAREGRAPH, we aim atsupporting the EU and its MemberStatesin the achievement of ambitious marine themed
+### About
+With MAREGRAPH, we aim at supporting the EU and its Member States in the achievement of ambitious marine themed
 objectives by semantically enriching, interlinking and providing high value and foundational datasets. These currently
 power the "effective biodiversity and conservation knowledge products" of today and will enable building the knowledge
 products of the future, where knowledge graphs and AI closely interact to support the marine public sector in making and
