@@ -1,5 +1,5 @@
 ![](/img/maregraph-horizontal.1.png)
-# Welcome to the MareGraph project landing page!
+# Welcome to the MareGraph landing page!
 
 ## About
 With MAREGRAPH, we aim atsupporting the EU and its MemberStatesin the achievement of ambitious marine themed
