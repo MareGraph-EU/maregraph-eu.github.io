@@ -1,5 +1,5 @@
 # Welcome to the MareGraph project landing page!
-![MG](https://github.com/MareGraph-EU/maregraph-eu.github.io/blob/main/img/maregraph-horizontal.png)
+[MG](https://github.com/MareGraph-EU/maregraph-eu.github.io/blob/main/img/maregraph-horizontal.png)
 
 ## About
 With MAREGRAPH, we aim atsupporting the EU and its MemberStatesin the achievement of ambitious marine themed
