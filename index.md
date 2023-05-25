@@ -15,6 +15,10 @@ Spaces. As such MAREGRAPH will provide a structural component in the digital tra
 ### Charter
 Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more information. 
 
+#### Partners
+
+
+
 
 
 
