@@ -3,6 +3,6 @@ permalink: /categories/
 title: "Categories"
 ---
 
-## Categories
+## Contact
 
 Change this to partner or contact 
