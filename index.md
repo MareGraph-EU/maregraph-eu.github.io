@@ -1,4 +1,4 @@
-![](/img/maregraph-horizontal.1.png){:height="400px" width="400px"}
+![](/img/maregraph-horizontal.1.png){:height="800px" width="800px"}
 # Welcome to the MareGraph landing page!
 
 ### About
