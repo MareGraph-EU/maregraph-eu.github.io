@@ -23,7 +23,7 @@ locale                   : "en-US"
 title                    : "MareGraph.eu"
 title_separator          : "-"
 subtitle                 : "Towards an Interoperable Marine Knowledge Graph"
-name                     : "Joanna Goley"
+name                     : "Flanders Marine Institute"
 description              : "MareGraph"
 url                      : "https://maregraph.eu" # the base hostname & protocol for your site e.g.
 baseurl                  : # the subpath of your site, e.g. "/blog"
