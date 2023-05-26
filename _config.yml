@@ -28,7 +28,7 @@ description              : "MareGraph"
 url                      : "https://maregraph.eu" # the base hostname & protocol for your site e.g.
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "MareGraph-EU/maregraph-eu.github.io" # GitHub username/repo-name e.g.
-teaser                   : "img/maregraph-logo-400x400.svg" # path of fallback teaser image, e.g. 
+teaser                   : "img/maregraph-logo-400x400.svg =50x50" # path of fallback teaser image, e.g. 
 logo                     : "/img/maregraph-logo-400x400.svg" # path of logo image to display in the masthead, e.g. 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -108,7 +108,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Joanna Goley"
+  name             : "Flanders Marine Institute"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "VLIZ"
   location         : "Belgium"
