@@ -20,16 +20,16 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "MareGraph.eu"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Towards an Interoperable Marine Knowledge Graph"
 name                     : "Joanna Goley"
 description              : "MareGraph"
-url                      : # the base hostname & protocol for your site e.g. "https://maregraph.eu"
+url                      : "https://maregraph.eu" # the base hostname & protocol for your site e.g.
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "MareGraph-EU/maregraph-eu.github.io"
-teaser                   : # path of fallback teaser image, e.g. "img/maregraph-logo-400x400.svg"
-logo                     : # path of logo image to display in the masthead, e.g. "/img"
+repository               : "MareGraph-EU/maregraph-eu.github.io" # GitHub username/repo-name e.g.
+teaser                   : "img/maregraph-logo-400x400.svg" # path of fallback teaser image, e.g. 
+logo                     : "/img/maregraph-logo-400x400.svg" # path of logo image to display in the masthead, e.g. 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -108,15 +108,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Joanna Goley"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "VLIZ"
+  location         : "Belgium"
+  email            : joanna.goley@vliz.be
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:joanna.goley@vliz.be"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
