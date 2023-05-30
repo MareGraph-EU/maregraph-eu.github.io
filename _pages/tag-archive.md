@@ -1,7 +1,7 @@
 ---
 title: "Spaces"
 permalink: /tags/
-layout: tags
+layout: Spaces
 author_profile: true
 ---
 
