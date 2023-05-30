@@ -5,7 +5,7 @@ title: "Contact"
 
 ## Contact
 
-- email [maregraph.eu](mailto:joanna.goley@vliz.be)
+- Feel free to [contact](mailto:joanna.goley@vliz.be) us for more information. 
 
 
 
