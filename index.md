@@ -23,9 +23,3 @@ Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more inform
 ![](img/DigitaalVlaanderen_logo.jpg){:style="height:100px;"}
 ![](img/imeclogo.png){:style="height:100px;"}
 
-
-
-
-
-
-
