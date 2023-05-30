@@ -1,6 +1,7 @@
 ---
 permalink: /categories/
 title: "Contact"
+layout: archive
 ---
 
 ## Contact
