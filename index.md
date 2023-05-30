@@ -1,4 +1,5 @@
-![](/img/maregraph-text-horizontal-600x200.svg){:style="width:800px;"}
+![](/img/maregraph-text-horizontal-600x200.svg){:style="width:800px;" alt="MareGraph Banner"}
+
 # Welcome to the MareGraph landing page!
 
 ### About
