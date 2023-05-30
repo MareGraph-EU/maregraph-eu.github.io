@@ -5,4 +5,7 @@ title: "Contact"
 
 ## Contact
 
-Change this to partner or contact 
+- email [maregraph.eu](mailto:joanna.goley@vliz.be)
+
+
+
