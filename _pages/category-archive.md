@@ -5,7 +5,7 @@ title: "Contact"
 
 ## Contact
 
-- Feel free to [contact](mailto:joanna.goley@vliz.be) us for more information. 
+[Contact](mailto:joanna.goley@vliz.be) us for more information. 
 
 
 
