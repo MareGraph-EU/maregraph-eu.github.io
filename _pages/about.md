@@ -16,8 +16,9 @@ The MAREGRAPH project will increase the semantic, technical, and legal interoper
 - a biogeographic dataset (EurOBIS)
 
 
-![](/img/HVDs.png){:style="height:150px;"}
+![](/img/HVDs.png){:style="height:300px;"}
 
 
-
+<br />
+<br />
 ![](/img/eufunded.jpg){:style="height:35px;"}
