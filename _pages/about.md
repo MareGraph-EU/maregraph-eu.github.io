@@ -11,10 +11,12 @@ With MAREGRAPH, we aim at supporting the EU and its Member States in the achieve
 
 The MAREGRAPH project will increase the semantic, technical, and legal interoperability of three selected datasets: 
 
-a taxonomic dataset (World Register of Marine Species - WoRMS),
-a geospatial dataset (Marine Regions)
-a biogeographic dataset (EurOBIS).
-![](/img/HVDs.png){:style="height:75px;"}
+- a taxonomic dataset (World Register of Marine Species - WoRMS)
+- a geospatial dataset (Marine Regions)
+- a biogeographic dataset (EurOBIS)
+
+
+![](/img/HVDs.png){:style="height:150px;"}
 
 
 
