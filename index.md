@@ -2,10 +2,6 @@
   <img src="/img/maregraph-horizontal.1.png" alt="MG Logo"/>
 </p>
 
-<p align="center">
-![](/img/maregraph-horizontal.1.png){:height="600px" width="600px"}
-</p>
-
 # Welcome to the MareGraph landing page!
 
 ### About
