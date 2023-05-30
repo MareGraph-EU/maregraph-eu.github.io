@@ -4,8 +4,6 @@ main:
     url: /about/
   - title: "Posts"
     url: /posts/
-  - title: "Tags"
-    url: /tags/
   - title: "Contact"
     url: /categories/
   - title: "Spaces"
