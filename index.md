@@ -21,5 +21,5 @@ Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more inform
 ![](img/VLIZ_LOGO.png){:style="height:75px;"}
 ![](img/cnrlogo.png){:style="height:70px;"}
 ![](img/DigitaalVlaanderen_logo.jpg){:style="height:50px;"}
-![](img/imeclogo.png){:style="height:60px;"}
+![](img/imeclogo.png){:style="height:50px;"}
 
