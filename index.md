@@ -1,4 +1,4 @@
-![](/img/maregraph-horizontal.1.png){:height="800px" width="800px"}
+![](/img/maregraph-text-horizontal-600x200.svg){:style="width:800px;"}
 # Welcome to the MareGraph landing page!
 
 ### About
@@ -17,7 +17,7 @@ Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more inform
 
 #### Partners
 
-![](img/VLIZ_LOGO_ENG_RGB_VLIZ_LOGO_COMPACT%20(3).png =100x100)
+![](img/VLIZ_LOGO.png){:style="height:100px;"}
 
 
 
