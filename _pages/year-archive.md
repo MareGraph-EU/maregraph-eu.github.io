@@ -9,4 +9,4 @@ author_profile: true
 - Core boared members: board@maregraph.eu 
 - Communicatio for all members and partners of project Maregraph: all@maregraph.eu
 - Workshop members and partisipants: community@maregraph.eu
-- 
+
