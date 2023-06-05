@@ -17,6 +17,8 @@ The MAREGRAPH project will increase the semantic, technical, and legal interoper
 
 ![](/img/HVDs.png){:style="height:300px;"}
 
+### Charter
+Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more information. 
 
 <br />
 <br />
