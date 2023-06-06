@@ -4,7 +4,7 @@ title: "Contact"
 layout: archive
 ---
 
-Contact [info@maregraph.eu](mailto:joanna.goley@vliz.be) us for more information. 
+Contact [info@maregraph.eu](mailto:joanna.goley@vliz.be) for more information. 
 
 ## Communication and collaboration resources
 - Core boared members: [board@maregraph.eu](mailto:board@maregraph.eu)
