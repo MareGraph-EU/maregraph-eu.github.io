@@ -11,7 +11,7 @@ building open knowledge on marine biodiversity. The MAREGRAPH project will provi
 and publication of three high impact datasets in the marine domain (the World Register of Marine Species (WoRMS),
 Marine Regions and EurOBIS (the European Node of the international Ocean Biodiversity Information System) using
 state of the art technologies. This will allow the onboarding of essential marine datasets in the Common European Data
-Spaces. As such MAREGRAPH will provide a structural component in the digital transition of the marine landscape
+Spaces. As such MAREGRAPH will provide a structural component in the digital transition of the marine landscape.
 
 ### Charter
 Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more information. 
