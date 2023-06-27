@@ -1,5 +1,5 @@
 ---
-title: "Post: Modified Date"
+title: "Post: First Buisness workshop"
 last_modified_at: 2016-03-09T16:20:02-05:00
 categories:
   - Blog
@@ -9,6 +9,15 @@ tags:
   - standard
 ---
 
-This post has been updated and should show a modified date if used in a layout.
+On behalf of the overall consortium of MAREGRAPH, coordinated by the Flemish Marine Institute (VLIZ), we extended a warm invitation for participation in the first series of workshops organized as part of our project. These workshops are designed to bring together stakeholders who share a keen interest in the domain.  
 
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
+The primary objective of these workshops is to gather essential requirements from domain experts, particularly concerning the modelling and representation of data related to the WoRMS information system (taxonomic data), Marine Regions, and the EUROBIS system. 
+
+If you are interested in participating in future workshops, we kindly request you to register using the following form - https://forms.office.com/r/wLtUHJWVh7 or emailing info@maregraph.eu. 
+
+  
+
+Previous workshop: 
+Date: 19th June 
+Time: 13:00 to 16:00 CEST 
+Format: Online (via the Teams platform) 
