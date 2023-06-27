@@ -15,7 +15,7 @@ The MAREGRAPH project will increase the semantic, technical, and legal interoper
 - a biogeographic dataset (EurOBIS)
 
 
-![](/img/HVDs.png){:style="height:300px;"}
+![](/img/HVDS_v1.png){:style="height:300px;"}
 
 ### Charter
 Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more information. 
