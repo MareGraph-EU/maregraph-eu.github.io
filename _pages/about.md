@@ -22,4 +22,14 @@ Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more inform
 
 <br />
 <br />
+## Related initiatives  
+<br />
+- related networks / other initiatives (HVDs)
+- 
+
+
+
+
+<br />
+<br />
 ![](/img/eufunded.jpg){:style="height:35px;"}
