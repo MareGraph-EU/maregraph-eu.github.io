@@ -24,10 +24,8 @@ Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more inform
 <br />
 ## Related initiatives  
 <br />
-- related networks / other initiatives (HVDs)
-- [Green Deal Dataspace](https://green-deal-dataspace.eu/about/)
-<br />
-![](/img/Green_Deal_Dataspace_logo.png){:style="height:100px;"}
+[Green Deal Dataspace](https://green-deal-dataspace.eu/about/)
+![](/img/Green_Deal_Dataspace_logo.png){:style="height:50px;"}
 
 
 
