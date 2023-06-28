@@ -10,9 +10,11 @@ With MAREGRAPH, we aim at supporting the EU and its Member States in the achieve
 
 The MAREGRAPH project will increase the semantic, technical, and legal interoperability of three selected datasets: 
 
-- a taxonomic dataset (World Register of Marine Species - WoRMS)
-- a geospatial dataset (Marine Regions)
-- a biogeographic dataset (EurOBIS)
+- a taxonomic dataset [World Register of Marine Species - WoRMS](https://www.marinespecies.org/)
+- a geospatial dataset [Marine Regions](https://www.marineregions.org/)
+- a biogeographic dataset [EurOBIS](https://www.eurobis.org/)
+
+  
 
 
 ![](/img/HVDS_v1.png){:style="height:300px;"}
@@ -22,20 +24,26 @@ Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more inform
 
 <br />
 <br />
-## Related initiatives  
+## Related networks and initiatives  
 ![](/img/Green_Deal_Dataspace_logo.png){:style="height:50px;"}
 <br />
 [Green Deal Dataspace](https://green-deal-dataspace.eu/about/)
 <br />
 <br />
 <br />
-![](/img/EurOBIS_logo_RGB.png){:style="height:75px;"}
+![](/img/beopenlogo.png){:style="height:75px;"}
 <br />
-[EurOBIS](https://www.eurobis.org/)
+[BeOpen](https://beopen-dep.eu/)
+<br />
+![](/img/eurogeographics.png){:style="height:75px;"}
+<br />
+[Open Maps for Europe 2](https://www.mapsforeurope.org/)
+<br />
 
 
-
-
+ DIGITAL EUROPE framework – DG CNECT ​
+ Call: DIGITAL-2022-CLOUD-AI-02 ​
+ Topic: OPEN-AI – Public Sector Open Data for AI and Open Data Platform
 <br />
 <br />
 ![](/img/eufunded.jpg){:style="height:35px;"}
