@@ -28,23 +28,29 @@ Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more inform
 
 <br />
 <br />
+
 ## Related networks and initiatives  
+
+<div style="display:flex;flexDirection:column">
+<div style="flex">
+<a href="https://green-deal-dataspace.eu/about/" target="_blank"><img src="/img/Green_Deal_Dataspace_logo.png" alt="Green Deal Dataspace" style="height:50px;"></a>
+</div>
+<div style="flex:1">
+<a href="https://beopen-dep.eu/" target="_blank"><img src="/img/beopenlogo.png" alt="BeOpen" style="height:50px;"></a>
+</div>
+<div style="flex:1">
+<a href="https://www.mapsforeurope.org/" target="_blank"><img src="/img/eurogeographics.png" alt="OME2" style="height:75px;"></a>
+</div>
+<div style="flex:1">
+<a href="https://rodeo-project.eu/" target="_blank"><img src="/img/rodeo-logo-light-green.svg" alt="RODEO" style="height:75px;"></a>
+</div>
+</div>
 <br />
-![](/img/Green_Deal_Dataspace_logo.png){:style="height:50px;"} [Green Deal Dataspace](https://green-deal-dataspace.eu/about/) 
-<br />
-<br />
-![](/img/beopenlogo.png){:style="height:50px;"} [BeOpen](https://beopen-dep.eu/)
-<br />
-<br />
-![](/img/eurogeographics.png){:style="height:75px;"} [OME2](https://www.mapsforeurope.org/) 
-<br />
-<br />
-![](/img/rodeo-logo-light-green.svg){:style="height:75px;"} [RODEO](https://rodeo-project.eu/)
-<br />
-<br />
-<br />
+
 ---
+
 <br />
+
 #### Public Sector Open Data for AI and Open Data Platform
  - DIGITAL EUROPE framework – DG CNECT ​
  - Call: DIGITAL-2022-CLOUD-AI-02 ​
