@@ -30,20 +30,20 @@ Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more inform
 [Green Deal Dataspace](https://green-deal-dataspace.eu/about/)
 <br />
 <br />
-<br />
-![](/img/beopenlogo.png){:style="height:75px;"}
+![](/img/beopenlogo.png){:style="height:50px;"}
 <br />
 [BeOpen](https://beopen-dep.eu/)
+<br />
 <br />
 ![](/img/eurogeographics.png){:style="height:75px;"}
 <br />
 [Open Maps for Europe 2](https://www.mapsforeurope.org/)
 <br />
 
-
- DIGITAL EUROPE framework – DG CNECT ​
- Call: DIGITAL-2022-CLOUD-AI-02 ​
- Topic: OPEN-AI – Public Sector Open Data for AI and Open Data Platform
+## Public Sector Open Data for AI and Open Data Platform
+ - DIGITAL EUROPE framework – DG CNECT ​
+ - Call: DIGITAL-2022-CLOUD-AI-02 ​
+ - Topic: OPEN-AI – Public Sector Open Data for AI and Open Data Platform
 <br />
 <br />
 ![](/img/eufunded.jpg){:style="height:35px;"}
