@@ -26,23 +26,16 @@ Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more inform
 <br />
 ## Related networks and initiatives  
 <br />
-![](/img/Green_Deal_Dataspace_logo.png){:style="height:50px;"} 
-<br />
-[Green Deal Dataspace](https://green-deal-dataspace.eu/about/) 
+![](/img/Green_Deal_Dataspace_logo.png){:style="height:50px;"} [Green Deal Dataspace](https://green-deal-dataspace.eu/about/) 
 <br />
 <br />
-![](/img/beopenlogo.png){:style="height:50px;"} 
-[BeOpen](https://beopen-dep.eu/)
+![](/img/beopenlogo.png){:style="height:50px;"} [BeOpen](https://beopen-dep.eu/)
 <br />
 <br />
-![](/img/eurogeographics.png){:style="height:75px;"}
-<br />
-[OME2](https://www.mapsforeurope.org/) 
+![](/img/eurogeographics.png){:style="height:75px;"} [OME2](https://www.mapsforeurope.org/) 
 <br />
 <br />
-![](/img/rodeo-logo-light-green.svg){:style="height:75px;"}
-<br />
-[RODEO](https://rodeo-project.eu/)
+![](/img/rodeo-logo-light-green.svg){:style="height:75px;"} [RODEO](https://rodeo-project.eu/)
 <br />
 <br />
 <br />
