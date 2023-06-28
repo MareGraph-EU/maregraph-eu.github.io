@@ -37,8 +37,12 @@ Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more inform
 <br />
 ![](/img/eurogeographics.png){:style="height:75px;"}
 <br />
-[Open Maps for Europe 2](https://www.mapsforeurope.org/)
+[OME2](https://www.mapsforeurope.org/)
 <br />
+<br />
+![](/img/rodeo-logo-light-green.svg){:style="height:75px;"}
+<br />
+[RODEO](https://rodeo-project.eu/)
 
 ## Public Sector Open Data for AI and Open Data Platform
  - DIGITAL EUROPE framework – DG CNECT ​
