@@ -32,6 +32,11 @@ Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more inform
 [Green Deal Dataspace](https://green-deal-dataspace.eu/about/) | [BeOpen](https://beopen-dep.eu/) | [OME2](https://www.mapsforeurope.org/) | [RODEO](https://rodeo-project.eu/) |
 <br />
 <br />
+| Tables   |      Are      | not |  Cool |
+|----------| ------------- | --- | ------ |
+| col 1 is |  left-aligned | 0   | $1600 |
+| col 2 is |    centered   | 0   |   $12 |
+| col 3 is | right-aligned | 0   |    $1 |
 
 
 ---
