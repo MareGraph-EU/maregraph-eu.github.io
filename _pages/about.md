@@ -44,10 +44,12 @@ Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more inform
 <br />
 [RODEO](https://rodeo-project.eu/)
 
-## Public Sector Open Data for AI and Open Data Platform
+---
+#### Public Sector Open Data for AI and Open Data Platform
  - DIGITAL EUROPE framework – DG CNECT ​
  - Call: DIGITAL-2022-CLOUD-AI-02 ​
  - Topic: OPEN-AI – Public Sector Open Data for AI and Open Data Platform
 <br />
 <br />
+---
 ![](/img/eufunded.jpg){:style="height:35px;"}
