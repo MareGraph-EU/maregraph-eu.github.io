@@ -1,5 +1,5 @@
 ---
-title: "Post: First Buisness workshop"
+title: "Post: First Business workshop"
 last_modified_at: 2023-06-27T16:20:02-05:00
 categories:
   - Blog
