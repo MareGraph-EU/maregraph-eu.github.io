@@ -16,10 +16,10 @@ The MAREGRAPH project will increase the semantic, technical, and legal interoper
 
   
 ### Focus
-1. HVDs available via APIs in a machine-readable format ​
-2. Lead to creation of data products and services by the participants in the common European data spaces. ​
-3. SMEs, start-ups, as well as public organisations to use cross-EU data to scale up and offer EU-wide services​
-4. Facilitate machine learning based on public data, especially in the data-demanding areas such as climate change, pollution or weather predictions.
+1. HVDs available via APIs in a machine-readable format.
+2. Lead to the creation of data products and services by the participants in the common European data spaces. ​
+3. SMEs, start-ups, as well as public organisations to use cross-EU data to scale up and offer EU-wide services.​
+4. Facilitate machine learning based on public data, especially in data-demanding areas such as climate change, pollution, or weather predictions.
 
 ![](/img/HVDS_v1.png){:style="height:300px;"}
 
