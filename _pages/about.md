@@ -23,14 +23,14 @@ Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more inform
 <br />
 <br />
 ## Related initiatives  
-<br />
 ![](/img/Green_Deal_Dataspace_logo.png){:style="height:50px;"}
 <br />
 [Green Deal Dataspace](https://green-deal-dataspace.eu/about/)
 <br />
-[EurOBIS](https://www.eurobis.org/)
 <br />
-![](/img/EurOBIS_logo_RGB.png){:style="height:50px;"}
+![](/img/EurOBIS_logo_RGB.png){:style="height:100px;"}
+<br />
+[EurOBIS](https://www.eurobis.org/)
 
 
 
