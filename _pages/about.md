@@ -51,6 +51,5 @@ Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more inform
  - Topic: OPEN-AI – Public Sector Open Data for AI and Open Data Platform
 <br />
 <br />
----
 <br />
 ![](/img/eufunded.jpg){:style="height:35px;"}
