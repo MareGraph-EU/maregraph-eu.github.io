@@ -21,3 +21,8 @@ Previous workshop:
 - Date: 19th June 
 - Time: 13:00 to 16:00 CEST 
 - Format: Online (via the Teams platform) 
+
+Next workshop
+- Date: 5th October
+- Time: TBD
+- Format: Online 
