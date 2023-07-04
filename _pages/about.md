@@ -43,7 +43,7 @@ Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more inform
 
 
 ## Related networks and initiatives  
-
+<br />
 <div style="display:flex;flexDirection:column">
 <div style="flex">
 <a href="https://green-deal-dataspace.eu/about/" target="_blank"><img src="/img/Green_Deal_Dataspace_logo.png" alt="Green Deal Dataspace" style="height:50px;"></a>
