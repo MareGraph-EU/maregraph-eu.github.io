@@ -28,22 +28,24 @@ Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more inform
 
 <br />
 <br />
+### Possible Use Cases
+ - To be able to obtain the most up-to-date taxonomic information for marine species.
+ - Synchronize an externally managed species list automatically into WoRMS (i.e. FishBase, AlgaeBase).
+ - Link between climate change and species migration.
+ - To query the correlation between marine species observations and fishing boat locations from AIS data.
+ - To combine biotic and abiotic data information.
+ - Publish to external systems such as GEONAMES from Marine regions.
+
+
+
+
+
 
 ## Related networks and initiatives  
 
 <div style="display:flex;flexDirection:column">
 <div style="flex">
 <a href="https://green-deal-dataspace.eu/about/" target="_blank"><img src="/img/Green_Deal_Dataspace_logo.png" alt="Green Deal Dataspace" style="height:50px;"></a>
-</div>
-<div style="flex:1">
-<a href="https://beopen-dep.eu/" target="_blank"><img src="/img/beopenlogo.png" alt="BeOpen" style="height:50px;"></a>
-</div>
-<div style="flex:1">
-<a href="https://www.mapsforeurope.org/" target="_blank"><img src="/img/eurogeographics.png" alt="OME2" style="height:75px;"></a>
-</div>
-<div style="flex:1">
-<a href="https://rodeo-project.eu/" target="_blank"><img src="/img/rodeo-logo-light-green.svg" alt="RODEO" style="height:75px;"></a>
-</div>
 </div>
 <br />
 
@@ -55,6 +57,7 @@ Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more inform
  - DIGITAL EUROPE framework – DG CNECT ​
  - Call: DIGITAL-2022-CLOUD-AI-02 ​
  - Topic: OPEN-AI – Public Sector Open Data for AI and Open Data Platform
+ - 
 <br />
 <br />
 <br />
