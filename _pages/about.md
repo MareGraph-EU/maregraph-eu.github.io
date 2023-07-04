@@ -28,8 +28,11 @@ Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more inform
 
 <br />
 <br />
+
 ### Possible Use Cases
+
 <br />
+
  - To be able to obtain the most up-to-date taxonomic information for marine species.
  - Synchronize an externally managed species list automatically into WoRMS (i.e. FishBase, AlgaeBase).
  - Link between climate change and species migration.
@@ -43,6 +46,7 @@ Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more inform
 
 
 ## Related networks and initiatives  
+
 <br />
 <div style="display:flex;flexDirection:column">
 <div style="flex">
@@ -58,8 +62,9 @@ Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more inform
  - DIGITAL EUROPE framework – DG CNECT ​
  - Call: DIGITAL-2022-CLOUD-AI-02 ​
  - Topic: OPEN-AI – Public Sector Open Data for AI and Open Data Platform
- - 
+
 <br />
 <br />
 <br />
+
 ![](/img/eufunded.jpg){:style="height:35px;"}
