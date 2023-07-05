@@ -59,6 +59,7 @@ Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more inform
 <br />
 
 #### Public Sector Open Data for AI and Open Data Platform
+
  - DIGITAL EUROPE framework – DG CNECT ​
  - Call: DIGITAL-2022-CLOUD-AI-02 ​
  - Topic: OPEN-AI – Public Sector Open Data for AI and Open Data Platform
