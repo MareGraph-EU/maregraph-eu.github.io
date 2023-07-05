@@ -48,9 +48,6 @@ Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more inform
 <a href="https://green-deal-dataspace.eu/about/" target="_blank"><img src="/img/Green_Deal_Dataspace_logo.png" alt="Green Deal Dataspace" style="height:50px;"></a>
 </div>
 <br />
-
----
-
 <br />
 <h4>
 Public Sector Open Data for AI and Open Data Platform
@@ -71,3 +68,5 @@ Topic: OPEN-AI – Public Sector Open Data for AI and Open Data Platform
 <br />
 
 ![](/img/eufunded.jpg){:style="height:35px;"}
+
+---
