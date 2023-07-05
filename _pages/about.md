@@ -40,11 +40,6 @@ Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more inform
  - To combine biotic and abiotic data information.
  - Publish to external systems such as GEONAMES from Marine regions.
 
-
-
-
-
-
 ## Related networks and initiatives  
 
 <br />
