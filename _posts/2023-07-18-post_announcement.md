@@ -7,7 +7,7 @@ tags:
   - Data architecture
   - LDES
   - Interoperability
-  - open science
+  - Open science
 ---
 
 
