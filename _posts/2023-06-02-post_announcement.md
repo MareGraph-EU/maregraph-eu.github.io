@@ -4,9 +4,7 @@ last_modified_at: 2023-06-27T16:20:02-05:00
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Open Science
 ---
 
 On behalf of the overall consortium of MAREGRAPH, coordinated by the Flemish Marine Institute (VLIZ), we extended a warm invitation for participation in the first series of workshops organized as part of our project. These workshops are designed to bring together stakeholders who share a keen interest in the domain.  
