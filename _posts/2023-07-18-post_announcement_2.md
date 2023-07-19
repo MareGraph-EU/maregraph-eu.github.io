@@ -1,17 +1,14 @@
 ---
-title: "Post: Introduction to data architecture"
+title: "Post: Introduction to Data Architecture"
 last_modified_at: 2023-07-18T16:20:02-05:00
 categories:
   - Blog
 tags:
-  - Data architecture
-  - LDES
-  - Interoperability
   - Open science
 ---
 
 
-Following a highly productive General Assembly of project MareGraph, feedback was given to organize a dissemination and presentation session to introduce WP4 data architecture for the project. The purpose of this gathering was to conduct an informative session on MareGraph's architecture whitepaper and extend the invitation to both the consortium and the wider community for feedback and comments.
+Following a highly productive general assembly of project MareGraph, feedback was given to organize a dissemination and presentation session to introduce WP4 data architecture for the project. This gathering aimed to conduct an informative session on MareGraph's architecture whitepaper and extend the invitation to both the consortium and the wider community for feedback and comments.
 
 The presentation was given by Julián Rojas from Ghent University - IMEC. We aim to facilitate discussions and gather valuable feedback from the community. 
 
