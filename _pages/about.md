@@ -40,6 +40,9 @@ Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more inform
  - To combine biotic and abiotic data information.
  - Publish to external systems such as GEONAMES from Marine regions.
 
+## Deliverables
+You can find us on [Zenodo](https://zenodo.org/communities/maregraph/?page=1&size=20)
+
 ## Related networks and initiatives  
 
 <br />
