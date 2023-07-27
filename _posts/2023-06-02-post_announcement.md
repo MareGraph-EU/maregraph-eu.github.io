@@ -11,16 +11,18 @@ On behalf of the overall consortium of MAREGRAPH, coordinated by the Flemish Mar
 
 The primary objective of these workshops is to gather essential requirements from domain experts, particularly concerning the modelling and representation of data related to the WoRMS information system (taxonomic data), Marine Regions, and the EUROBIS system. 
 
-If you are interested in participating in future workshops, we kindly request you to register using the following [form](https://forms.office.com/r/wLtUHJWVh7) or emailing <info@maregraph.eu>. 
+If you are interested in participating in future workshops, we kindly request you to register using the links below or emailing <info@maregraph.eu>. 
 
   
 
-Previous workshop: 
-- Date: 19th June 
+Previous workshop (Business workshop): 
+- Date: 19th June 2023 
 - Time: 13:00 to 16:00 CEST 
-- Format: Online (via the Teams platform) 
+- Format: Online (via the Teams platform)
+- [Registration form](https://forms.office.com/r/wLtUHJWVh7)
 
-Next workshop
-- Date: 5th October
-- Time: TBD
-- Format: Online 
+Next workshop (1st Thematic workshop - WoRMS)
+- Date: 30th August 2023
+- Time: 13:00 to 16:00 CEST
+- Format: Online (via the Teams platform)
+- [Registration form](https://forms.office.com/r/7W1tXg9K70)
