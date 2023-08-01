@@ -33,12 +33,29 @@ Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more inform
 
 <br />
 
- - To be able to obtain the most up-to-date taxonomic information for marine species.
- - Synchronize an externally managed species list automatically into WoRMS (i.e. FishBase, AlgaeBase).
- - Link between climate change and species migration.
- - To query the correlation between marine species observations and fishing boat locations from AIS data.
- - To combine biotic and abiotic data information.
- - Publish to external systems such as GEONAMES from Marine regions.
+Data integration and types of data:
+- I would like to have use cases which can help users to integrate data about distribution, 
+occurrences and functional traits of marine species;
+- aggregate data which are described with different units of measurements;
+- combine biotic and abiotic data information;
+
+Data modelling and mappings:
+- The ability to query the graph using semantics that I'm used to (e.g., generic semantic 
+conventions like schema.org or research-focused standards like DCAT);
+- to be able to follow translation path-ways between different taxonomic reference systems
+in order to compare / cross-reference datasets that chose to use distinct ones (e.g., NCBI, 
+WoRMS, ect.)
+
+Wider research opportunities:
+- link between climate change and species migration;
+- publish to external systems such as GEONAMES from Marine regions;
+- synchronize an externally managed species list automatically into WoRMS (i.e., FishBase, 
+AlgaeBase)
+
+Architecture and Protocols:
+- VOCBENCH domain / subject vocabulary tool for small communities
+- aggregation of data coming from different sources, methods, protocols
+  
 
 ## Deliverables
 You can find us on [Zenodo](https://zenodo.org/communities/maregraph/?page=1&size=20)
