@@ -57,9 +57,6 @@ Architecture and Protocols:
 - aggregation of data coming from different sources, methods, protocols
   
 
-## Deliverables
-You can find us on [Zenodo](https://zenodo.org/communities/maregraph/?page=1&size=20)
-
 ## Related networks and initiatives  
 
 <br />
