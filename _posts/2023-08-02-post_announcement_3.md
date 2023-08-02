@@ -6,17 +6,17 @@ categories:
 ---
 
 
-On behalf of the overall consortium of MAREGRAPH, coordinated by the Flemish Marine Institute (VLIZ), we extend a warm invitation for your participation in the first thematic workshop on WoRMS (World Register of Marine Species) system.
+On behalf of the overall consortium of MAREGRAPH, coordinated by the Flemish Marine Institute (VLIZ), we extend a warm invitation for your participation in the first thematic workshop on [WoRMS](https://www.marinespecies.org/aphia.php) (World Register of Marine Species) system.
 
  
 
-If you are interested in participating in it, we kindly request you to register using the following form: https://forms.office.com/r/7W1tXg9K70. The form provides detailed information about the workshop’s scope.
+If you are interested in participating in it, we kindly request you to register using the following [form](https://forms.office.com/r/7W1tXg9K70). The form provides detailed information about the workshop’s scope.
 
  
 
-Workshop Details:
+**Workshop Details**:
 
-- Date: 30th August
+- Date: 30th August 2023
 - Time: 13:00 to 16:00 CEST
 - Format: Online (via the Teams platform)
 
