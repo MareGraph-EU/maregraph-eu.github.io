@@ -1,6 +1,6 @@
 ---
 title: "Post: First thematic workshop on WoRMS"
-last_modified_at: 2023-06-27T16:20:02-05:00
+last_modified_at: 2023-08-02T16:20:02-05:00
 categories:
   - Blog
 ---
