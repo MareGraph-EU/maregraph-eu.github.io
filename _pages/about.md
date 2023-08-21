@@ -33,28 +33,24 @@ Please see our [OSLO-Charter](/files/Charter_Maregraph_OSLO.pdf) for more inform
 
 <br />
 
-Data integration and types of data:
-- I would like to have use cases which can help users to integrate data about distribution, 
-occurrences and functional traits of marine species;
-- aggregate data which are described with different units of measurements;
-- combine biotic and abiotic data information;
+_Data integration and types of data:_
+- Help users integrate data about distributions, occurrences, and functional traits of marine species;
+- Aggregate data described with different units of measurement;
+- Combine biotic and abiotic data information;
 
-Data modelling and mappings:
-- The ability to query the graph using semantics that I'm used to (e.g., generic semantic 
+_Data modeling and mappings:_
+- The ability to query graphs using semantics that users are used to (e.g., generic semantic 
 conventions like schema.org or research-focused standards like DCAT);
-- to be able to follow translation path-ways between different taxonomic reference systems
-in order to compare / cross-reference datasets that chose to use distinct ones (e.g., NCBI, 
-WoRMS, ect.)
+- To be able to follow translation pathways between different taxonomic reference systems in order to compare / cross-reference datasets (e.g., NCBI, WoRMS, etc.).
 
-Wider research opportunities:
-- link between climate change and species migration;
-- publish to external systems such as GEONAMES from Marine regions;
-- synchronize an externally managed species list automatically into WoRMS (i.e., FishBase, 
-AlgaeBase)
+_Wider research opportunities:_
+- A link between climate change and species migration;
+- Publish to external systems such as GEONAMES from Marine regions;
+- Synchronize an externally managed species list automatically into WoRMS (i.e., FishBase, AlgaeBase).
 
-Architecture and Protocols:
-- VOCBENCH domain / subject vocabulary tool for small communities
-- aggregation of data coming from different sources, methods, protocols
+_Architecture and Protocols:_
+- VOCBENCH domain / subject vocabulary tool for small communities;
+- To be able to aggregate data coming from different sources, methods, and protocols.
   
 
 ## Related networks and initiatives  
