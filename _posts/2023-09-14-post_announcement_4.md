@@ -13,10 +13,10 @@ We would like to inform you of a slight modification to the MareGraph Project Ch
 
 Please take note of the following changes:
 
-1) 2nd Thematic Workshop on WoRMS - 19th of October 2023
-2) Start of the public review - 22th of November 2023
-3) End of the public review - 22th of December 2023
-4) Final release end of January, according to our gantt in the project
+- 2nd Thematic Workshop on WoRMS - 19th of October 2023
+- Start of the public review - 22th of November 2023
+- End of the public review - 22th of December 2023
+- Final release end of January, according to our gantt in the project
 
 These adjustments are aimed at ensuring the quality and accuracy of our work, even during holiday periods.
 
