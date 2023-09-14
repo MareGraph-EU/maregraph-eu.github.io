@@ -1,5 +1,5 @@
 ---
-title: "Post: First thematic workshop on WoRMS"
+title: "Post: 📣 Important Announcement: Modification to MareGraph Project Charter"
 last_modified_at: 2023-09-14T16:20:02-05:00
 categories:
   - Blog
