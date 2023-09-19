@@ -71,7 +71,7 @@ Public Sector Open Data for AI and Open Data Platform
 DIGITAL EUROPE framework – DG CNECT ​
 </li>
 <li>
-Call: DIGITAL-2022-CLOUD-AI-0
+Call: DIGITAL-2022-CLOUD-AI-02
 </li>
 <li>
 Topic: OPEN-AI – Public Sector Open Data for AI and Open Data Platform
