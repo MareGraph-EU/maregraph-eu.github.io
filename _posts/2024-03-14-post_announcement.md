@@ -17,7 +17,7 @@ Work Package 5, spearheaded by VLIZ, orchestrated workshops on two fronts: embed
 
 In the spirit of collaboration, our partners at CNR and VLIZ will led a joint workshop focusing on Vocabularies, particularly LOV (Linked Open Vocabularies) at the upcoming SEMIC June 2024 Conference. Through LOV's visual interface, participants will be able to gauge the reuse of existing assets and the vocabulary's prevalence across different contexts. The adoption of a standardized workbench for collaboration and modeling processes emerged as a key recommendation, paving the way for seamless integration of vocabularies within local settings. Moreover, the prospect of automatic publication on Joinup's standard registry opens doors for broader engagement and effective application.
 
-![](1708617780226.jfif)
+![](MAGA02.png)
 
 See you next at [SEMIC 2024](https://belgian-presidency.consilium.europa.eu/en/events/semic2024/)!
 
