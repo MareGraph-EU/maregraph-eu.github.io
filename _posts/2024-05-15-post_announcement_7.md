@@ -8,7 +8,7 @@ categories:
 
 
 📣 We are excited to announce the launch of the public review for the first set of hashtag#ontologies developed within the MAREGRAPH project! 
-These ontologies aim to represent the rich data offered by the World Register of hashtag#Marine hashtag#Species (WoRMS) system in a standardized and machine-readable format.
+These ontologies aim to represent the rich data offered by the World Register of Marine Species (WoRMS) system in a standardized and machine-readable format.
 
 I encourage all interested parties to participate in this review; also, feel free to share it with your colleagues who you think might be willing to provide feedback.
 
