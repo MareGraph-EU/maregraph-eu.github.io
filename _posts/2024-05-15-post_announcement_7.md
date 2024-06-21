@@ -1,5 +1,5 @@
 ---
-title: "Post: Launch of the Public Review for WoRMS Ontologies"
+title: "Launch of the Public Review for WoRMS Ontologies"
 last_modified_at: 2024-06-21T16:43:01Z
 categories:
   - Blog
