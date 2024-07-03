@@ -1,5 +1,5 @@
 ---
-title: "📣 Recap: General assembly(#3) and SEMIC 2024"
+title: "Recap: 🎇 General assembly(#3) and SEMIC 2024"
 last_modified_at: 2024-07-21T16:43:01Z
 categories:
   - Blog
@@ -7,7 +7,7 @@ categories:
 
  <img src="/img/semic2024.jpg" alt="Group Picture" width="500">
 
- **A Week of Progress and Collaboration** 
+🎇 **A Week of Progress and Collaboration** 🎇
 
 Last week marked a significant milestone for Project MargeGraphs as we reached the halfway point of our project. The team gathered for the General Assembly and showcased our innovations at the SEMIC pre-conference and conference in Brussels.
 
