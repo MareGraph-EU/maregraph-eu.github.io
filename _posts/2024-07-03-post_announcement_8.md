@@ -1,5 +1,5 @@
 ---
-title: "Recap: 🎇 General assembly(#3) and SEMIC 2024"
+title: "Recap: 🎇 General Assembly(#3) and SEMIC 2024"
 last_modified_at: 2024-07-21T16:43:01Z
 categories:
   - Blog
