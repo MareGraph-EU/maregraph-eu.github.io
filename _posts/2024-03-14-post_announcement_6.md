@@ -1,5 +1,5 @@
 ---
-title: "General Assembly #2 Recap"
+title: "Recap: General Assembly (#2)"
 last_modified_at: 2024-03-18T16:20:02-05:00
 categories:
   - Blog
