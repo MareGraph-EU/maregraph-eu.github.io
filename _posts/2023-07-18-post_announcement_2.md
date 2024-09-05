@@ -3,8 +3,6 @@ title: "Post: Introduction to Data Architecture"
 last_modified_at: 2023-07-18T16:20:02-05:00
 categories:
   - Blog
-tags:
-  - Open science
 ---
 
 
