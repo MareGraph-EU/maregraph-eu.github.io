@@ -7,6 +7,8 @@ author_profile: true
 
 
 ![](/img/GitHub.png){:style="height:55px;"} [Github](https://github.com/MareGraph-EU) 
+## Publications
+Biodiversity Information Science and Standards 8: e136697: [The European MAREGRAPH Project: Enhancing Marine Data Interoperability through Semantic Knowledge Graphs](https://biss.pensoft.net/article/136697/)
 
 ## Deliverables
 You can find us on [Zenodo](https://zenodo.org/communities/maregraph/?page=1&size=20)
