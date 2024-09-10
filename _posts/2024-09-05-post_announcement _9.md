@@ -10,4 +10,6 @@ categories:
 
 📹 You can watch the presentation at minute 35:35 [here](https://www.youtube.com/watch?v=MWrGZe-0pAc&list=PLD9-DRLWVl0nrwFMOYUHe-W82m2VCJjyJ&index=28)
 
+📚 You can read the extended abstract published in [Biodiversity Information Science and Standards](https://biss.pensoft.net/). doi: [https://doi.org/10.3897/biss.8.136697](https://biss.pensoft.net/article/136697/)
+
 *MareGraph Team*
