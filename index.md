@@ -1,6 +1,6 @@
 ![](/img/maregraph-text-horizontal-600x200.svg){:style="width:800px;" alt="MareGraph Banner"}
 
-# Welcome to the MareGraph landing page!
+# Welcome!
 
 ### About
 With MAREGRAPH, we aim at supporting the EU and its Member States in the achievement of ambitious marine themed
