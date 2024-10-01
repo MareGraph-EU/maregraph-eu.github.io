@@ -12,7 +12,6 @@ Biodiversity Information Science and Standards 8: e136697: [The European MAREGRA
 
 ## LDES   
 [LDES Registry](https://imec-int.github.io/ldes-registry/): Registry of known endpoints  
-[LDES client](https://github.com/TREEcg/ldes-client​)  
 
 ## Semantic Assets  
 [MareGraph assets](https://github.com/MareGraph-EU/assets)
