@@ -10,6 +10,14 @@ author_profile: true
 ## Publications
 Biodiversity Information Science and Standards 8: e136697: [The European MAREGRAPH Project: Enhancing Marine Data Interoperability through Semantic Knowledge Graphs](https://biss.pensoft.net/article/136697/)
 
+## LDES   
+[LDES Registry](https://imec-int.github.io/ldes-registry/): Registry of known endpoints  
+[LDES client](https://github.com/TREEcg/ldes-client​)  
+
+## Semantic Assets  
+[MareGraph assets](https://github.com/MareGraph-EU/assets)
+
+
 ## Deliverables
 You can find us on [Zenodo](https://zenodo.org/communities/maregraph/?page=1&size=20)
 
