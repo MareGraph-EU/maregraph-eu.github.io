@@ -11,5 +11,21 @@ Contact [info@maregraph.eu](mailto:info@maregraph.eu) for more information.
 - If you would be interested in joining our community please send an inquiry to [info@maregraph.eu](mailto:info@maregraph.eu)
 
 
+## Dissemination and outreach
+
+| Date            | Event / Type of Dissemination Activity                                 | Target Audience                   | Description of the Objective(s)                                           |
+|------------------|-----------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------|
+| 30 Mar 2023     | DSSC 1st touchpoint with Open Data 4 AI projects                    | High Value Data Set cluster projects                   | Invitation for the 1st touchpoint between DSSC and 4 Open Data 4 AI projects to establish connection and explore future synergies. |
+| 21 Apr 2023     | OSLO and VSDS within Smart Data Academy | Students/ Researchers                  | [Vlaanderen.be](https://dynamicforms.crmiv.vlaanderen.be/EventModule/Page/Show/5f7cc069-8a9f-4bcc-bf2c-22e2d2f4cfd0?PreFillIds=c9ba174c-cc44-ed11-bba3-0022489fd897,fe64e3a2-dec3-ed11-83ff-0022489fd897)                                                            |                                                                          |
+| 28 Apr 2023     | OSLO and VSDS within Smart Data Academy | Students/ Researchers                  | [Vlaanderen.be](https://dynamicforms.crmiv.vlaanderen.be/EventModule/Page/Show/5f7cc069-8a9f-4bcc-bf2c-22e2d2f4cfd0?PreFillIds=c9ba174c-cc44-ed11-bba3-0022489fd897,fe64e3a2-dec3-ed11-83ff-0022489fd897)                                                              |                                                                          |
+| 22 May 2023     | Presentation: LifeWatch ERIC BEes Biodiversity and Ecosystem eScience Conference                        | Stakeholders / public             |         VLIZ mentions MareGraph and WoRMs in LW conference (Seville, Spain)                                                                 |
+| 13-15 June 2023 | Sweden Data Week: [data-week.eu](https://data-week.eu/)              |      Stakeholders / public                             |                                                                          |
+| 12 July 2023    | From Data Lake to Data Space - Marc Portier (VLIZ)                 | Stakeholders / public             | Novel approaches for decentralized knowledge graph querying in Data Space contexts. |
+| Oct 2023        | [SEMIC Conference 2023](https://semic2023.eu/)                                              |    Community/ stakeholders                               |          [D2.1 Guidelines on process and methodology for organisational interoperability (Version 1)](https://zenodo.org/records/8167337#:~:text=MareGraph%20aims%20to%20bring%20together%20and)                   |
+| Nov 2023        | NCP Flanders  |       Stakeholders / public / community                            |   [MareGraph Testimonials](https://ncpflanders.be/testimonials/maregraph-towards-an-interoperable-marine-knowledge-graph)                                                                       |
+| 22 Feb 2024     | MG-EU project assets published                                       |  Stakeholders / public / community  |     [GitHub Repository](https://github.com/MareGraph-EU/assets)                                                              |
+| April 18 2024   | FRDN community day                                                  | Community researchers, data stewards in Flanders |  [Knowledge Hub Community Day](https://tessafwo.idloom.events/knowledge-hub-community-day-VLIZ) |
+| May 27-29 2024  | IMDIS24 Conference                                                            | Researchers                       | [IMDIS24 Presentation](https://bit.ly/imdis24-day1-tech-157-portier) presented by Marc Portier. |
+| June 26 2024    | [SEMIC Conference 2024](https://semic2024.eu/)                                                   | Researchers, stakeholders, community | [Pre-Conference Workshop: Cross-border Semantic Interoperability](https://www.youtube.com/watch?v=3TXLDbpkRzQ&list=PLTqrUzsdFBKZmeePo_C8WnKrRGg6cG5K_&index=2&t=1s&ab_channel=InteroperableEurope)
 
 
