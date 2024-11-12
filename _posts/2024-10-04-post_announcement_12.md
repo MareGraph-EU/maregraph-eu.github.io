@@ -1,16 +1,16 @@
 ---
-title: "Post: D2.2 Guidelines on process and methodology for organisational interoperability - now avalible on Zenodo"
-last_modified_at: 2024-11-12
+title: "🌐  WP5 EurOBIS/LOD Implementation Plan Presentation"
+last_modified_at: 2024-10-04
 categories:
-- Blog
+  - Blog
 ---
+## 🌐 Recap of the EurOBIS/LOD Implementation Plan Presentation from WP5
 
-## Advancing Semantic Assets for Organizational Interoperability: Insights from Deliverable D2.2
+Today, VLIZ presented the implementation plan for the EurOBIS Linked Open Data (LOD). The report outlines the expected features and service interface points for the new components to be developed. It takes into account the current state of the EurOBIS database system and workflow, 
+alongside the overall planned architecture detailed in the [D4.1 Whitepaper](https://zenodo.org/records/8318832).
 
-Building upon the foundation set in Deliverable D2.1, the latest Deliverable D2.2 takes the next step forward in refining the process and methodology for creating semantic assets that can be effectively utilized across different Member States. The importance of establishing a clear process and methodology for organizational interoperability cannot be overstated.
+The goal is to serve as both a development guide and a concise description of the new services that the LOD and LDES publications of EurOBIS will offer.
 
-Organizational interoperability ensures seamless communication, smooth data exchange, and efficient collaboration between various departments, systems, and organizations. By implementing a standardized approach, organizations can improve their operational efficiency, reduce the likelihood of errors, and make more informed, data-driven decisions. This not only optimizes internal workflows but also enhances the ability to collaborate across borders, fostering a more integrated and effective environment for all stakeholders involved.
-
-You can now view it [here](https://zenodo.org/records/14097695). 🔗 
+If you missed the presentation and would like to catch up, you can view it [here](https://zenodo.org/records/13890124). 🔗 
 
 *MareGraph Team*
