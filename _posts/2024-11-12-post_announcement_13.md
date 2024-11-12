@@ -1,16 +1,13 @@
 ---
-title: "🌐  WP5 EurOBIS/LOD Implementation Plan Presentation"
+title: "MareGraph on Public Sector Tech Watch"
 last_modified_at: 2024-10-04
 categories:
   - Blog
 ---
-## 🌐 Recap of the EurOBIS/LOD Implementation Plan Presentation from WP5
+## MareGraph submitted on Public Sector Tech Watch
 
-Today, VLIZ presented the implementation plan for the EurOBIS Linked Open Data (LOD). The report outlines the expected features and service interface points for the new components to be developed. It takes into account the current state of the EurOBIS database system and workflow, 
-alongside the overall planned architecture detailed in the [D4.1 Whitepaper](https://zenodo.org/records/8318832).
+The Public Sector Tech Watch (PSTW) observatory launched in 2024 the ‘Best Cases Award’. The aim was to spotlight solutions using emerging technologies (Artificial Intelligence, Blockchain, etc.) in public administrations at all levels to enhance public services for citizens (G2C) or to improve their internal processes (G2G). On the one hand, the award aimed to generate a virtuous mechanism for sharing the best experiences on the use of emerging technologies in the public sector; and on the other, to give visibility to the most innovative public administrations in Europe.
 
-The goal is to serve as both a development guide and a concise description of the new services that the LOD and LDES publications of EurOBIS will offer.
-
-If you missed the presentation and would like to catch up, you can view it [here](https://zenodo.org/records/13890124). 🔗 
+You can view all submitted cases [here](https://interoperable-europe.ec.europa.eu/collection/public-sector-tech-watch/best-cases-award-all-submitted-cases#all). 🔗 
 
 *MareGraph Team*
