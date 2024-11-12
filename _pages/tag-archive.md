@@ -28,6 +28,7 @@ You can find us on [Zenodo](https://zenodo.org/communities/maregraph/?page=1&siz
 - [D5.1 - WoRMS/LOD Gap Analysis](https://zenodo.org/records/8354364)
 - [D4.1 - Architecture Whitepaper](https://zenodo.org/records/8318832)
 - [D2.1 Guidelines on process and methodology for organisational interoperability (Version 1)](https://zenodo.org/records/8167337)
+- [D2.2 Guidelines on process and methodology for organisational interoperability](https://zenodo.org/records/14097695)
 - [D3.1 – Preliminary ontology design and development](https://zenodo.org/records/10849372)
 
 
