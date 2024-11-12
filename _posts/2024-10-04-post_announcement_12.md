@@ -1,7 +1,8 @@
 ---
 title: "Post: D2.2 Guidelines on process and methodology for organisational interoperability - now avalible on Zenodo"
 last_modified_at: 2024-11-12
-categories: - Blog
+categories:
+- Blog
 ---
 
 ## Advancing Semantic Assets for Organizational Interoperability: Insights from Deliverable D2.2
