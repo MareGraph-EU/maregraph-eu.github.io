@@ -11,6 +11,6 @@ Building upon the foundation set in Deliverable D2.1, the latest Deliverable D2.
 
 Organizational interoperability ensures seamless communication, smooth data exchange, and efficient collaboration between various departments, systems, and organizations. By implementing a standardized approach, organizations can improve their operational efficiency, reduce the likelihood of errors, and make more informed, data-driven decisions. This not only optimizes internal workflows but also enhances the ability to collaborate across borders, fostering a more integrated and effective environment for all stakeholders involved.
 
-You can now view it [here](https://zenodo.org/records/14097695). 🔗
+You can now view it [here](https://zenodo.org/records/14215013). 🔗
 
 MareGraph Team
