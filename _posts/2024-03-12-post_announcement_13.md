@@ -1,6 +1,6 @@
 ---
 title: "MareGraph on Public Sector Tech Watch"
-last_modified_at: 2024-10-04
+last_modified_at: 2024-12-03
 categories:
   - Blog
 ---
