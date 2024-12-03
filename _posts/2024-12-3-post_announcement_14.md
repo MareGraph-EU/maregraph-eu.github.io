@@ -1,5 +1,5 @@
 ---
-title: "MareGraph on Public Sector Tech Watch"
+title: "MareGraph in Transforming & Exploiting High Value Datasets: Synergies in EU Open Data Projects - Webinar"
 last_modified_at: 2024-10-04
 categories:
   - Blog
