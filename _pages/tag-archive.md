@@ -15,6 +15,9 @@ Biodiversity Information Science and Standards 8: e136697: [The European MAREGRA
 - [MEC LDES client 2 sparql](https://github.com/rdf-connect/ldes2sparql)  
 - [VSDS testbed](https://github.com/Informatievlaanderen/VSDS-Testbed)​
 
+### News
+- [NCP testimonial](https://ncpflanders.be/testimonials/maregraph-towards-an-interoperable-marine-knowledge-graph)
+
 ## Semantic Assets  
 [MareGraph assets](https://github.com/MareGraph-EU/assets)
 
