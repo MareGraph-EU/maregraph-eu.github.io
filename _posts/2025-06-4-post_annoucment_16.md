@@ -1,5 +1,5 @@
 ---
-title: "D3.2 – Final ontology design and development avalible"
+title: "Final ontology design and development available"
 last_modified_at: 2025-06-06T16:20:02-05:00
 categories:
   - Blog
