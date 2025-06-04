@@ -13,3 +13,5 @@ Over two productive days of planning and workshops, we’ve laid out the roadmap
 - The publication of EurOBIS as Linked Open Data – expected this December 
 
 We’re proud of the milestones ahead and grateful for the collaboration driving this work forward.
+<br>
+<img src="https://github.com/user-attachments/assets/5bce0917-aa79-4948-852c-08418ca22425" style="width:50%;" alt="MareGraph Image 1"> <img src="https://github.com/user-attachments/assets/c3e4a85b-1205-4122-9a39-0cb7766d99af" style="width:28%;" alt="MareGraph Image 2">
