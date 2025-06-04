@@ -11,3 +11,4 @@ Building on earlier work, this release introduces critical updates, a **brand-ne
 
 This milestone marks a major leap toward more open, connected, and reusable marine data, with all resources publicly available and actively maintained at [our GitHub repository](https://github.com/MareGraph-EU/assets).
 
+Read the final document [here](https://zenodo.org/records/15593409)
