@@ -42,8 +42,14 @@ You can find us on [Zenodo](https://zenodo.org/communities/maregraph/?page=1&siz
 
 
 
-<div style="border: 2px solid #0077cc; border-radius: 12px; padding: 20px; max-width: 500px; background-color: #f0f8ff; margin: 20px auto; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <h2 style="color: #0077cc; margin-bottom: 10px;">Have you used our ontology?</h2>
-  <p style="color: #333; margin-bottom: 20px;">We’d love to hear your feedback.</p>
-  <a href="mailto:wp1@maregraph.eu" style="background-color: #0077cc; color: #fff; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold;">Tell us what you think</a>
+
+
+<br>
+<br>
+
+<div style="border: 2px solid #888; border-radius: 12px; padding: 20px; max-width: 500px; background-color: #f2f2f2; margin: 20px auto; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
+  <h2 style="color: #444; margin-bottom: 10px;">Have you used our ontology?</h2>
+  <p style="color: #555; margin-bottom: 20px;">We’d love to hear your feedback.</p>
+  <a href="mailto:your-email@example.com" style="background-color: #666; color: #fff; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold;">Tell us what you think</a>
 </div>
+
