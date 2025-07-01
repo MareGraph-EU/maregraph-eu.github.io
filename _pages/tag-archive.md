@@ -32,6 +32,7 @@ You can find us on [Zenodo](https://zenodo.org/communities/maregraph/?page=1&siz
 - [D2.1 Guidelines on process and methodology for organisational interoperability (Version 1)](https://zenodo.org/records/8167337)
 - [D2.2 Guidelines on process and methodology for organisational interoperability](https://zenodo.org/records/14215013)
 - [D2.3 - Results of the Community Building](https://zenodo.org/records/14592032)
+- [D2.4 - Summary of the results of disseminaton actvites](https://zenodo.org/records/15780700)
 - [D3.1 – Preliminary ontology design and development](https://zenodo.org/records/10849372)
 - [D3.2 – Final ontology design and development](https://zenodo.org/records/15593409)
 - [D4.1 - Architecture Whitepaper](https://zenodo.org/records/8318832)
