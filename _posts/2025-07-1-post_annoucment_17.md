@@ -1,5 +1,5 @@
 ---
-title: "Summary of the results of disseminaton actvitest now on Zenodo"
+title: "Summary of the results of dissemination activities now on Zenodo"
 last_modified_at: 2025-07-01T16:20:02-05:00
 categories:
   - Blog
