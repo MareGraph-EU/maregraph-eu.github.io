@@ -12,11 +12,9 @@ After three years of collaboration and innovation, **Project MareGraph has offic
 
 We’re happy to share that the **final deliverables are now publicly available on Zenodo**:
 
-- **D4.4 – LDES-based Web Indexes**  
-  <[https://zenodo.org/communities/maregraph/records?q=&l=list&p=1&s=10&sort=newest](https://zenodo.org/records/18229740)>
+- **[D4.4 – LDES-based Web Indexes](https://zenodo.org/records/18229740)**  
 
-- **D5.4 – EurOBIS/LOD**  
-  <[https://zenodo.org/communities/maregraph/records?q=&l=list&p=1&s=10&sort=newest](https://zenodo.org/records/18229504)>
+- **[D5.4 – EurOBIS/LOD](https://zenodo.org/records/18229504)**  
 
 These publications represent the culmination of our collective efforts and provide concrete outcomes for the community to build upon.
 
