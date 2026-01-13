@@ -25,10 +25,6 @@ Biodiversity Information Science and Standards 8: e136697: [The European MAREGRA
 ## Deliverables
 You can find us on [Zenodo](https://zenodo.org/communities/maregraph/?page=1&size=20)
 
-- [WP4 - Architecture Overview](https://zenodo.org/records/10083644)
-- [WP5 WoRMs/LOD Implementation Plan Presentation](https://zenodo.org/records/10083478)
-- [WP5 EurOBIS/LOD Implementation Plan Presentation](https://zenodo.org/records/13890124)
-
 - [D2.1 Guidelines on process and methodology for organisational interoperability (Version 1)](https://zenodo.org/records/8167337)
 - [D2.2 Guidelines on process and methodology for organisational interoperability](https://zenodo.org/records/14215013)
 - [D2.3 - Results of the Community Building](https://zenodo.org/records/14592032)
@@ -43,8 +39,10 @@ You can find us on [Zenodo](https://zenodo.org/communities/maregraph/?page=1&siz
 - [D5.2 - WoRMS/LOD](https://zenodo.org/records/18230127)
 - [D5.4 - EurOBIS/LOD](https://zenodo.org/records/18229504)
 
-
-
+### Presentations 
+- [WP4 - Architecture Overview](https://zenodo.org/records/10083644)
+- [WP5 WoRMs/LOD Implementation Plan Presentation](https://zenodo.org/records/10083478)
+- [WP5 EurOBIS/LOD Implementation Plan Presentation](https://zenodo.org/records/13890124)
 
 
 
