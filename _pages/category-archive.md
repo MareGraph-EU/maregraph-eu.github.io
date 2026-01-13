@@ -27,5 +27,8 @@ Contact [info@maregraph.eu](mailto:info@maregraph.eu) for more information.
 | April 18 2024   | FRDN community day                                                  | Community researchers, data stewards in Flanders |  [Knowledge Hub Community Day](https://tessafwo.idloom.events/knowledge-hub-community-day-VLIZ)  ([Zenodo](https://zenodo.org/communities/frdn/records?q=&l=list&p=1&s=10&sort=newest)) |
 | May 27-29 2024  | IMDIS24 Conference                                                            | Researchers                       | [IMDIS24 Presentation](https://bit.ly/imdis24-day1-tech-157-portier)  |
 | June 26 2024    | [SEMIC Conference 2024](https://semic2024.eu/)                                                   | Researchers, stakeholders, community | [Pre-Conference Workshop: Cross-border Semantic Interoperability](https://www.youtube.com/watch?v=3TXLDbpkRzQ&list=PLTqrUzsdFBKZmeePo_C8WnKrRGg6cG5K_&index=2&t=1s&ab_channel=InteroperableEurope)
+| September 4 2024 | SPNHC-TDWG 2024 Conference | Researchers / Community / Stakeholders | Presentation of the MareGraph project at the conference By Alessandro Russo (CNR) [video](https://www.youtube.com/watch?v=MWrGZe-0pAc&list=PLD9-DRLWVl0nrwFMOYUHe-W82m2VCJjyJ&index=28)
+| September 19 2024 | Webinar: HVDs cluster projects |  Researchers / Community |  MareGraph presented in the cluster projects with "sister" EU projects |
+| March 3 2026 | Public webinar: project results |  Researchers / Community / Stakeholders | End of project webinar to showcase results and how to use LDES feeds
 
 
