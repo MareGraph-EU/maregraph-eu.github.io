@@ -36,6 +36,7 @@ You can find us on [Zenodo](https://zenodo.org/communities/maregraph/?page=1&siz
 - [D3.1 – Preliminary ontology design and development](https://zenodo.org/records/10849372)
 - [D3.2 – Final ontology design and development](https://zenodo.org/records/15593409)
 - [D4.1 - Architecture Whitepaper](https://zenodo.org/records/8318832)
+- [D4.2 - VLIZ publishing authoritative LDESes](https://zenodo.org/records/18230325)
 - [D4.4 - LDES-based Web Indexes](https://zenodo.org/records/18229740)
 - [D5.1 - WoRMS/LOD Gap Analysis](https://zenodo.org/records/8354364)
 - [D5.2 - WoRMS/LOD](https://zenodo.org/records/18230127)
