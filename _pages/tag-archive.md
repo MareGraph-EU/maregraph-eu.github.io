@@ -44,8 +44,9 @@ You can find us on [Zenodo](https://zenodo.org/communities/maregraph/?page=1&siz
 - [WP5 WoRMs/LOD Implementation Plan Presentation](https://zenodo.org/records/10083478)
 - [WP5 EurOBIS/LOD Implementation Plan Presentation](https://zenodo.org/records/13890124)
 
-
-
+#### Videos
+- [SEMIC 2024 Pre-Conference Workshop: Cross-border Semantic Interoperability](https://www.youtube.com/watch?reload=9&v=3TXLDbpkRzQ&list=PLTqrUzsdFBKZmeePo_C8WnKrRGg6cG5K_&index=2&t=1s&ab_channel=InteroperableEurope)
+- [Biodiversity Information Standards TDWG: SYM14 Emergence of Integrated Public Collection Services By Alessandro Russo (CNR)](https://www.youtube.com/watch?v=MWrGZe-0pAc&list=PLD9-DRLWVl0nrwFMOYUHe-W82m2VCJjyJ&index=28)
 
 
 <br>
