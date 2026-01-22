@@ -67,3 +67,5 @@ This exclusive webinar brought together four pioneering EU-funded projects—Ope
   <a href="mailto:info@maregraph.eu" style="background-color: #666; color: #fff; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold;">Tell us what you think</a>
 </div>
 
+![](/img/eufunded.jpg){:style="height:35px;"}
+
