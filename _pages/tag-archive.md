@@ -45,9 +45,12 @@ You can find us on [Zenodo](https://zenodo.org/communities/maregraph/?page=1&siz
 - [WP5 EurOBIS/LOD Implementation Plan Presentation](https://zenodo.org/records/13890124)
 
 #### Videos
-- [SEMIC 2024 Pre-Conference Workshop: Cross-border Semantic Interoperability](https://www.youtube.com/watch?reload=9&v=3TXLDbpkRzQ&list=PLTqrUzsdFBKZmeePo_C8WnKrRGg6cG5K_&index=2&t=1s&ab_channel=InteroperableEurope)
-- [Biodiversity Information Standards TDWG: SYM14 Emergence of Integrated Public Collection Services By Alessandro Russo (CNR)](https://www.youtube.com/watch?v=MWrGZe-0pAc&list=PLD9-DRLWVl0nrwFMOYUHe-W82m2VCJjyJ&index=28)
-- This exclusive webinar brought together four pioneering EU-funded projects—Open Maps for Europe 2 (OME2), MAREGRAPH, RODEO, and BeOpen. This event showcased their collaborative efforts to revolutionise the landscape of High Value Datasets (HVDs).[Transforming & Exploiting High Value Datasets Synergies in EU Open Data Projects](https://www.youtube.com/watch?v=dtCRwCzlrrY)
+
+Pre- conference workshop for SEMIC 20214: Cross-border Semantic Interoperability. The workshop explores the various stages of the data model lifecycle. We discussed what resources are currently available for reuse and delve into the authoring of new models while avoiding common quality pitfalls. [SEMIC 2024 Pre-Conference Workshop: Cross-border Semantic Interoperability](https://www.youtube.com/watch?reload=9&v=3TXLDbpkRzQ&list=PLTqrUzsdFBKZmeePo_C8WnKrRGg6cG5K_&index=2&t=1s&ab_channel=InteroperableEurope)
+
+Biodiversity Information Standards TDWG 2025 conference: SYM14 Emergence of Integrated Public Collection Services: Today’s DES experiences for tomorrow’s successes. [Alessando Russo - The European MAREGRAPH project: enhancing marine data interoperability through semantic knowledge graphs https://doi.org/10.3897/biss.8.136697](https://www.youtube.com/watch?v=MWrGZe-0pAc&list=PLD9-DRLWVl0nrwFMOYUHe-W82m2VCJjyJ&index=28)
+
+This exclusive webinar brought together four pioneering EU-funded projects—Open Maps for Europe 2 (OME2), MAREGRAPH, RODEO, and BeOpen. This event showcased their collaborative efforts to revolutionise the landscape of High Value Datasets (HVDs).[Transforming & Exploiting High Value Datasets Synergies in EU Open Data Projects](https://www.youtube.com/watch?v=dtCRwCzlrrY)
 
 
 <br>
