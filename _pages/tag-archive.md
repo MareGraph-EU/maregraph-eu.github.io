@@ -10,6 +10,11 @@ author_profile: true
 ## Publications
 Biodiversity Information Science and Standards 8: e136697: [The European MAREGRAPH Project: Enhancing Marine Data Interoperability through Semantic Knowledge Graphs](https://biss.pensoft.net/article/136697/)
 
+Linking application and semantic data with RDF Lens Vercruysse, A.; Pots, Jens.; Rojas Meléndez, Julián.; Colpaert, Pieter. (2024). [RDF-Connect: A declarative framework for streaming and cross-environment data processing pipelines](https://ceur-ws.org/Vol-3830/paper1.pdf). 
+
+RDF-Connect: A declarative framework for streaming and cross-environment data processing pipelines. Vercruysse, A.; Rojas Meléndez, Julián.; Colpaert, Pieter. (2024). [Linking application and semantic data with RDF Lens](https://ceur-ws.org/Vol-3830/paper1.pdf](https://ceur-ws.org/Vol-3759/paper13.pdf)). 
+
+
 ## Related   
 - [LDES Registry](https://imec-int.github.io/ldes-registry/): Registry of known endpoints   
 - [MEC LDES client 2 sparql](https://github.com/rdf-connect/ldes2sparql)  
