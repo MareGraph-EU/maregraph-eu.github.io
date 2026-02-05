@@ -28,3 +28,4 @@ During the webinar, we will:
 - Offer dedicated time for questions with our work package leaders
 
 Stay tuned—we look forward to sharing and celebrating the results with you!
+If you would like to join please mail info@maregraph.eu
