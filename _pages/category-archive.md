@@ -31,6 +31,6 @@ Contact [info@maregraph.eu](mailto:info@maregraph.eu) for more information.
 | September 19 2024 | Webinar: HVDs cluster projects |  Researchers / Community |  MareGraph presented in the cluster projects with "sister" EU projects |
 | September 3 2025 | Conference Tutorial: Building Streaming and Cross-Environment Data Processing Pipelines with RDF-Connect| Researchers / Community| Arthur Vercruysse, Ieben Smessaert, Julian Rojas and Pieter Colpaert presented a half-day RDF-Connect tutorial at the SEMANTiCS 2025 conference, carried out in Vienna, Austria. | 
 | November 2 2025 | Conference Tutorial: Building Streaming and Cross-Environment Data Processing Pipelines with RDF-Connect| Researchers / Community| Arthur Vercruysse, Ieben Smessaert, Julian Rojas and Pieter Colpaert presented a full day RDF-Connect tutorial at the ISWC 2025 conference, carried out in Nara, Japan.  | 
-| March 3 2026 | Public webinar: project results |  Researchers / Community / Stakeholders | End of project webinar to showcase results and how to use LDES feeds
+| March 3 2026 | [Public webinar: project results](https://teams.microsoft.com/meet/38876842072478?p=NFlacApH1rTjMp27v) |  Researchers / Community / Stakeholders | End of project webinar to showcase results and how to use LDES feeds
 
 
