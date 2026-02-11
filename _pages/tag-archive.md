@@ -1,7 +1,7 @@
 ---
 title: "Spaces"
 permalink: /KER/
-layout: ker
+layout: tags
 author_profile: true
 ---
 
