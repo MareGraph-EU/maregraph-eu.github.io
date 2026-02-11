@@ -117,16 +117,38 @@ This exclusive webinar brought together four pioneering EU-funded projects—Ope
 <br>
 <br>
 
-## on-line spaces
+## Online spaces
+<div style="margin-bottom: 15px;">
+  <img src="/img/GitHub.png" style="height:55px; vertical-align: middle;">
+  <a href="https://github.com/MareGraph-EU" style="margin-left: 10px;">
+    Github MareGraph-EU Organization
+  </a>
+</div>
 
-![](/img/GitHub.png){:style="height:55px;"} [Github MareGraph-EU Organization](https://github.com/MareGraph-EU) 
-![](/img/download.jpg){:style="height:55px;"} [Zenodo MareGraph Community](https://zenodo.org/communities/maregraph/?page=1&size=20)
+<div>
+  <img src="/img/download.jpg" style="height:55px; vertical-align: middle;">
+  <a href="https://zenodo.org/communities/maregraph/?page=1&size=20" style="margin-left: 10px;">
+    Zenodo MareGraph Community
+  </a>
+</div>
+
+
 
 ## Related   
 - [LDES Registry](https://imec-int.github.io/ldes-registry/): Registry of known endpoints
 - [VSDS testbed](https://github.com/Informatievlaanderen/VSDS-Testbed)​
 
 ### News
-- [NCP testimonial](https://ncpflanders.be/testimonials/maregraph-towards-an-interoperable-marine-knowledge-graph)
-![](/img/eufunded.jpg){:style="height:35px;"}
+<div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 8px;">
+    <a href="https://ncpflanders.be/testimonials/maregraph-towards-an-interoperable-marine-knowledge-graph">
+      NCP testimonial
+    </a>
+  </div>
+<br>
+  <br>
+  <div>
+    <img src="/img/eufunded.jpg" style="height:35px;">
+  </div>
+</div>
 
