@@ -1,12 +1,35 @@
 ---
 title: "Spaces"
-permalink: /tags/
-layout: tags
+permalink: /KER/
+layout: ker
 author_profile: true
 ---
 
 
-![](/img/GitHub.png){:style="height:55px;"} [Github](https://github.com/MareGraph-EU) 
+
+
+## Semantic Assets  
+[MareGraph assets](https://github.com/MareGraph-EU/assets)
+
+
+<!-- questionaire email -->
+<div style="border: 2px solid #888; border-radius: 12px; padding: 20px; max-width: 500px; background-color: #f2f2f2; margin: 20px auto; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
+  <h2 style="color: #444; margin-bottom: 10px;">Have you used our ontology?</h2>
+  <p style="color: #555; margin-bottom: 20px;">We’d love to hear your feedback.</p>
+  <a href="mailto:info@maregraph.eu" style="background-color: #666; color: #fff; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold;">Tell us what you think</a>
+</div>
+
+## Catalog
+- To do: Laurian final link w3ID ..../catalog
+- ADD description blurb
+
+## Specifications 
+- subyt template specification <-- Cedric to add 
+
+## Code repositories 
+- Joanna to add 
+
+
 ## Publications
 Biodiversity Information Science and Standards 8: e136697: [The European MAREGRAPH Project: Enhancing Marine Data Interoperability through Semantic Knowledge Graphs](https://biss.pensoft.net/article/136697/)
 
@@ -14,17 +37,6 @@ Linking application and semantic data with RDF Lens Vercruysse, A.; Pots, Jens.;
 
 RDF-Connect: A declarative framework for streaming and cross-environment data processing pipelines. Vercruysse, A.; Rojas Meléndez, Julián.; Colpaert, Pieter. (2024). [Linking application and semantic data with RDF Lens](https://ceur-ws.org/Vol-3830/paper1.pdf](https://ceur-ws.org/Vol-3759/paper13.pdf)). 
 
-
-## Related   
-- [LDES Registry](https://imec-int.github.io/ldes-registry/): Registry of known endpoints   
-- [MEC LDES client 2 sparql](https://github.com/rdf-connect/ldes2sparql)  
-- [VSDS testbed](https://github.com/Informatievlaanderen/VSDS-Testbed)​
-
-### News
-- [NCP testimonial](https://ncpflanders.be/testimonials/maregraph-towards-an-interoperable-marine-knowledge-graph)
-
-## Semantic Assets  
-[MareGraph assets](https://github.com/MareGraph-EU/assets)
 
 
 ## Deliverables
@@ -61,11 +73,17 @@ This exclusive webinar brought together four pioneering EU-funded projects—Ope
 <br>
 <br>
 
-<div style="border: 2px solid #888; border-radius: 12px; padding: 20px; max-width: 500px; background-color: #f2f2f2; margin: 20px auto; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
-  <h2 style="color: #444; margin-bottom: 10px;">Have you used our ontology?</h2>
-  <p style="color: #555; margin-bottom: 20px;">We’d love to hear your feedback.</p>
-  <a href="mailto:info@maregraph.eu" style="background-color: #666; color: #fff; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold;">Tell us what you think</a>
-</div>
+## on-line spaces
 
+![](/img/GitHub.png){:style="height:55px;"} [Github MareGraph-EU Organization](https://github.com/MareGraph-EU) 
+![](/img/Zenodo.png){:style="height:55px;"} [Zenodo MareGraph Community](https://zenodo.org/communities/maregraph/?page=1&size=20)
+
+## Related   
+- [LDES Registry](https://imec-int.github.io/ldes-registry/): Registry of known endpoints   
+- [MEC LDES client 2 sparql](https://github.com/rdf-connect/ldes2sparql)  
+- [VSDS testbed](https://github.com/Informatievlaanderen/VSDS-Testbed)​
+
+### News
+- [NCP testimonial](https://ncpflanders.be/testimonials/maregraph-towards-an-interoperable-marine-knowledge-graph)
 ![](/img/eufunded.jpg){:style="height:35px;"}
 
