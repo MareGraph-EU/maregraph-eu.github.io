@@ -67,7 +67,7 @@ author_profile: true
 ## Specifications 
 - [SU-by-T Template Extension Specification](https://open-science.vliz.be/subyt-template-extension-specification/)
 
-## Code repositories 
+## Code Repositories 
 - [LDES2SPARQL](https://github.com/MareGraph-EU/ldes2sparql)
 - [itb-testbed-config ](https://github.com/MareGraph-EU/itb-testbed-config)
 - [py-sema](https://github.com/vliz-be-opsci/py-sema)
