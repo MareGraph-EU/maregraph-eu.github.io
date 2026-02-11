@@ -72,6 +72,7 @@ author_profile: true
 - [itb-testbed-config ](https://github.com/MareGraph-EU/itb-testbed-config)
 - [py-sema](https://github.com/vliz-be-opsci/py-sema)
 - [K-GAP](https://github.com/vliz-be-opsci/k-gap)
+- [aphia-sparql-sync](https://github.com/MareGraph-EU/aphia-sparql-sync)
 
 
 ## Publications
