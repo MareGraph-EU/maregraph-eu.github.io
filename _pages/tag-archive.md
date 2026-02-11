@@ -11,23 +11,67 @@ author_profile: true
 ## Semantic Assets  
 [MareGraph assets](https://github.com/MareGraph-EU/assets)
 
+<!-- Questionnaire email box -->
+<div style="
+  border: 1px solid #d0d0d0;
+  border-radius: 14px;
+  padding: 28px 24px;
+  max-width: 520px;
+  background-color: #f9f9f9;
+  margin: 40px auto;
+  text-align: center;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
+  font-family: Arial, sans-serif;
+">
+  <h2 style="
+    color: #333;
+    margin-bottom: 12px;
+    font-size: 22px;
+  ">
+    Have you used our ontology?
+  </h2>
 
-<!-- questionaire email -->
-<div style="border: 2px solid #888; border-radius: 12px; padding: 20px; max-width: 500px; background-color: #f2f2f2; margin: 20px auto; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
-  <h2 style="color: #444; margin-bottom: 10px;">Have you used our ontology?</h2>
-  <p style="color: #555; margin-bottom: 20px;">We’d love to hear your feedback.</p>
-  <a href="mailto:info@maregraph.eu" style="background-color: #666; color: #fff; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: bold;">Tell us what you think</a>
+  <p style="
+    color: #555;
+    margin-bottom: 24px;
+    font-size: 15px;
+    line-height: 1.5;
+  ">
+    We’d love to hear your feedback and learn how you’re using it.
+  </p>
+
+  <a href="mailto:info@maregraph.eu"
+     style="
+       display: inline-block;
+       background-color: #4a4a4a;
+       color: #ffffff;
+       padding: 12px 22px;
+       text-decoration: none;
+       border-radius: 8px;
+       font-weight: 600;
+       font-size: 14px;
+       transition: background-color 0.2s ease;
+     "
+     onmouseover="this.style.backgroundColor='#2f2f2f'"
+     onmouseout="this.style.backgroundColor='#4a4a4a'">
+    Tell us what you think
+  </a>
 </div>
+
+
 
 ## Catalog
 - To do: Laurian final link w3ID ..../catalog
 - ADD description blurb
 
 ## Specifications 
-- subyt template specification <-- Cedric to add 
+- [SU-by-T Template Extension Specification](https://open-science.vliz.be/subyt-template-extension-specification/)
 
 ## Code repositories 
-- Joanna to add 
+- [LDES2SPARQL](https://github.com/MareGraph-EU/ldes2sparql)
+- [itb-testbed-config ](https://github.com/MareGraph-EU/itb-testbed-config)
+- [py-sema](https://github.com/vliz-be-opsci/py-sema)
+- [K-GAP](https://github.com/vliz-be-opsci/k-gap)
 
 
 ## Publications
@@ -76,11 +120,10 @@ This exclusive webinar brought together four pioneering EU-funded projects—Ope
 ## on-line spaces
 
 ![](/img/GitHub.png){:style="height:55px;"} [Github MareGraph-EU Organization](https://github.com/MareGraph-EU) 
-![](/img/Zenodo.png){:style="height:55px;"} [Zenodo MareGraph Community](https://zenodo.org/communities/maregraph/?page=1&size=20)
+![](/img/download.jpg){:style="height:55px;"} [Zenodo MareGraph Community](https://zenodo.org/communities/maregraph/?page=1&size=20)
 
 ## Related   
-- [LDES Registry](https://imec-int.github.io/ldes-registry/): Registry of known endpoints   
-- [MEC LDES client 2 sparql](https://github.com/rdf-connect/ldes2sparql)  
+- [LDES Registry](https://imec-int.github.io/ldes-registry/): Registry of known endpoints
 - [VSDS testbed](https://github.com/Informatievlaanderen/VSDS-Testbed)​
 
 ### News
