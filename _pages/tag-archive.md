@@ -61,8 +61,8 @@ author_profile: true
 
 
 ## Catalog
-- To do: Laurian final link w3ID ..../catalog
-- ADD description blurb
+The MareGraph catalog provides a curated collection of datasets, data services, vocabularies, and ontologies produced by the MareGraph project. It serves as the main entry point for discovering marine linked data resources and is conformant with the European DCAT-AP standard ([version 3.0.1](https://semiceu.github.io/DCAT-AP/releases/3.0.1/)).
+-  https://w3id.org/marine/metadata/catalog
 
 ## Specifications 
 - [SU-by-T Template Extension Specification](https://open-science.vliz.be/subyt-template-extension-specification/)
