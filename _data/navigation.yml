@@ -5,7 +5,7 @@ main:
   - title: "Posts"
     url: /posts/
   - title: "Contact"
-    url: /categories/
+    url: /contact/
   - title: "Results"
     url: /KER/
 
