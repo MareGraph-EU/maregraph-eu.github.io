@@ -1,0 +1,17 @@
+---
+layout: null
+permalink: /categories/
+---
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting...</title>
+  <link rel="canonical" href="/contact/">
+  <meta http-equiv="refresh" content="0; url=/contact/">
+  <script>window.location.replace("/contact/");</script>
+</head>
+<body>
+  <p>Redirecting to <a href="/contact/">/contact/</a>...</p>
+</body>
+</html>
