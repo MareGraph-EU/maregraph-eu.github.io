@@ -1,5 +1,5 @@
 ---
-permalink: /contact/
+permalink: /categories/
 title: "Contact and Outreach"
 layout: archive
 ---
