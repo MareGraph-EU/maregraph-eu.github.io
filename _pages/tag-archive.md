@@ -107,6 +107,7 @@ You can find us on [Zenodo](https://zenodo.org/communities/maregraph/?page=1&siz
 - [WP4 - Architecture Overview](https://zenodo.org/records/10083644)
 - [WP5 WoRMs/LOD Implementation Plan Presentation](https://zenodo.org/records/10083478)
 - [WP5 EurOBIS/LOD Implementation Plan Presentation](https://zenodo.org/records/13890124)
+- [MareGraph Project Results: Final Public Webinar and Stakeholder Presentation](https://zenodo.org/records/18872894)
 
 #### Videos
 
@@ -115,6 +116,8 @@ Pre- conference workshop for SEMIC 20214: Cross-border Semantic Interoperability
 Biodiversity Information Standards TDWG 2025 conference: SYM14 Emergence of Integrated Public Collection Services: Today’s DES experiences for tomorrow’s successes. [Alessando Russo - The European MAREGRAPH project: enhancing marine data interoperability through semantic knowledge graphs https://doi.org/10.3897/biss.8.136697](https://www.youtube.com/watch?v=MWrGZe-0pAc&list=PLD9-DRLWVl0nrwFMOYUHe-W82m2VCJjyJ&index=28)
 
 This exclusive webinar brought together four pioneering EU-funded projects—Open Maps for Europe 2 (OME2), MAREGRAPH, RODEO, and BeOpen. This event showcased their collaborative efforts to revolutionise the landscape of High Value Datasets (HVDs).[Transforming & Exploiting High Value Datasets Synergies in EU Open Data Projects](https://www.youtube.com/watch?v=dtCRwCzlrrY)
+
+ The final results webinar recording is now officially available on Zenodo, alongside the complete slide presentation. Whether you’re interested in the technical methodology or the high-level project outcomes, all the resources are ready for you to explore. [MareGraph Project Results: Final Public Webinar and Stakeholder Presentation](https://zenodo.org/records/18872894)
 
 
 <br>
